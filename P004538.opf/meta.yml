@@ -4,4 +4,14 @@ source_metadata:
   id: bdr:W2PD17604
   title: 陈庆英藏学文集
   author: ''
-  volumes: {}
+  volumes:
+    b6b1a1d3ca3a42b6b8fbb6b9e8be2535:
+      image_group_id: I4PD4591
+      title: ''
+      volume_number: 1
+      total_pages: 544
+    c95207f5c91641edb99fcaef3510839b:
+      image_group_id: I4PD4592
+      title: ''
+      volume_number: 2
+      total_pages: 748
